@@ -93,9 +93,9 @@ const Hero = () => {
                             initial="hidden"
                             animate="visible"
                         >
-                            Best Tech Deals
+                            Super product 
                             <br />
-                            On Best Prices
+                            of Technology
                             <svg
                                 className="svg-underline stroke-[#ffb81c] relative z-10 w-64 md:w-1/2 lg:w-3/4"
                                 strokeLinejoin="round"
@@ -132,7 +132,7 @@ const Hero = () => {
                                     variants={buttonVariants}
                                     whileHover="hover"
                                 >
-                                    Shop now
+                                    Products
                                 </motion.button>
                             </Link>
                         </motion.div>

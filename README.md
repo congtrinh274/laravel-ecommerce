@@ -1,6 +1,6 @@
 # TECHSHOP
 ## Introduction
-A virtual ecommerce website using Node js, Express js, and Mongoose.
+A virtual ecommerce website using Laravel, ReactJS, Redux, MySQL,..
 ## Demo 
 ![image](https://github.com/congtrinh274/laravel-ecommerce/assets/104729830/8fce93e5-d8dc-4d08-9492-8aa89a1a35c1)
 ![image](https://github.com/congtrinh274/laravel-ecommerce/assets/104729830/6e4891aa-9201-4c1b-b52d-2bca7b8a5df8)
